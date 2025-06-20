@@ -15,13 +15,13 @@ The design reference used for this UI is from the official **FlyGlobe Figma Desi
 ## 🚀 Features
 
 - 🔄 **Multiple Pages with Routing** using `react-router-dom
-- 
+ 
 - 💡 **Reusable Components** for cards, buttons, headers, inputs, etc.
--
+
 - 📱 **Fully Responsive Design** for mobile, tablet, and desktop
--
+
 - 🎨 **Pixel-Perfect Layout** based on the Figma design
--
+
 - ✅ Clean and modular code using React Hooks and functional components
 
 ---
